@@ -13,7 +13,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Sumit9676&theme=dark)
 <br/>
 <br/>
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 
