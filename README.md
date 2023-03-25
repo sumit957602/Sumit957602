@@ -3,6 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3995&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Kumar" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=1&pause=100000&width=435&lines=A+passionate+Software+developer." alt="Typing SVG" /></a>
 </h1>
+<p align="right">
+<img  width="180" height="180" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sumit9676&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9676&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9676" /> </p>
