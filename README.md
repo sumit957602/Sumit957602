@@ -2,7 +2,8 @@
 <h1 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3995&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Kumar" alt="Typing SVG" /></a>
 </h1>
-<h3 align="left">A passionate Software developer from India</h3>
+<h3 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=1&pause=100000&width=435&lines=A+passionate+Software+developer+from+India." alt="Typing SVG" /></a>
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9676&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9676" /> </p>
