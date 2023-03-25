@@ -1,8 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966>
+[!MASTERHEAD]
+<h1 align="left">Hi 👋, I'm Sumit Kumar</h1>
+<h3 align="left">A passionate Software developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0qUL2n2-Y76-jim1SC6ge2&ust=1679806073653000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMC46rWj9v0CFQAAAAAdAAAAABBB">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9676&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9676" /> </p>
+
+- 🔭 I’m currently working on **Web development**
+
+- 🌱 I’m currently learning **API,Databases**
+
+- 💬 Ask me about **HTML,CSS,JS**
+
+- 📫 How to reach me **sumit957602@gmail.com**
+
+- ⚡ Fun fact **I am not Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
