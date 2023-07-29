@@ -17,7 +17,7 @@
 </p>
 <br/>
 <br/>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=sumit957602&theme=dark)
+![GitHub Streak] (http://github-readme-streak-stats.herokuapp.com/?user=sumit957602&theme=dark)
 
 <br/>
 <br/>
