@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=1&pause=100000&width=435&lines=A+passionate+Software+developer." alt="Typing SVG" /></a>
 </h1>
 <p align="right">
-<img  width="180" height="180" src="https://github.com/noman2002/noman2002/blob/master/bandar.gif">
+
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sumit9676&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit9676&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
@@ -12,7 +12,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Sumit9676&theme=dark)
 <br/>
 <br/>
-
+<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 
