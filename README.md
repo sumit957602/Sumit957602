@@ -5,6 +5,8 @@
 <p >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sumit9676&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
 </p>
+<br/>
+<br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit9676&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
 <br>
 
