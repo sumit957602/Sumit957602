@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3995&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Kumar" alt="Typing SVG" /></a> <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=1&pause=100000&width=435&lines=A+passionate+Software+developer." alt="Typing SVG" /></a>
 </h1>
-<p align="right">
+<p >
 <br/>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sumit9676&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
 </p>
