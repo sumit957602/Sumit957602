@@ -13,7 +13,7 @@
 <br/>
 <br/>
 <br/>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit957602&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit957602&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
 </p>
 <br/>
 <br/>
