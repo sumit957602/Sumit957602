@@ -50,3 +50,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9676&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9676" /> </p>
 [![@sumit957602's Holopin board](https://holopin.io/api/user/board?user=sumit957602)](https://holopin.io/@sumit957602)
 
+### Juan Vega (He/Him)
+
+[![@juanvegadev's Holopin board](https://holopin.io/api/user/board?user=juanvegadev)](https://holopin.io/@juanvegadev)
