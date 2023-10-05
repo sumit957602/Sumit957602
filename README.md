@@ -52,4 +52,4 @@
 
 ### Juan Vega (He/Him)
 
-[![@juanvegadev's Holopin board](https://holopin.io/api/user/board?user=juanvegadev)](https://holopin.io/@juanvegadev)
+[![@sumit957602's Holopin board](https://holopin.io/api/user/board?user=sumit957602)](https://holopin.io/@sumit957602)
