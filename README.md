@@ -50,7 +50,7 @@
 
 ### Badges :
 
-[![@sumit957602's Holopin board](https://holopin.io/api/user/board?user=sumit957602)](https://holopin.io/@sumit957602)
+[![@sumit957602's Holopin board](https://holopin.io/api/user/board?user=sumit95760)](https://holopin.io/@sumit95760)
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9676&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9676" /> </p>
