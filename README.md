@@ -23,18 +23,17 @@
 <br/>
 <br/>
 <br/>
-<br/>
 <p> <img src="http://github-readme-streak-stats.herokuapp.com/?user=sumit957602&theme=dark" />
 </p>
 <img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **API,Databases**
+- 🌱 I’m currently learning **REACT, TYPESCRIPT**
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **NODEJS, EXPRESS**
 
 - 📫 How to reach me **sumit957602@gmail.com**
 
