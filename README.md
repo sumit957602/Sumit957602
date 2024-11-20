@@ -51,8 +51,6 @@
 
 ### Badges :
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f337ee21-9251-425f-a458-c562ddd35ee3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 [![@sumit957602's Holopin board](https://holopin.io/api/user/board?user=sumit957602)](https://holopin.io/@sumit957602)
 <br/>
 
